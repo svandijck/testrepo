@@ -1,3 +1,5 @@
 This is first comment from GITHUB
 
 This is the second line in the file added with MS Visual studio
+
+This is the third line
